@@ -13,10 +13,17 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 There are some package and developer tools installed by using chocolatey, which are:
 - [Java SE 8.0.211](https://community.chocolatey.org/packages/jdk8)
 - [Visual Studio Code 1.71.0](https://community.chocolatey.org/packages/vscode)
+- [Git 2.37.3](https://community.chocolatey.org/packages/git)
+
+## Clone Repository
+
+```bash
+git clone https://github.com/rochmanramadhann/binus-intro-to-programming.git
+```
 
 ## Running Single File
 
-```python
+```java
 java FileName.java
 
 javac FileName.class
