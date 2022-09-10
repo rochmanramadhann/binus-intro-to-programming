@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class ScannerExample {
     public static void main(String[] args) {
         // declare variable
         String name, address;
