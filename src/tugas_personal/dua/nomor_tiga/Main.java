@@ -70,7 +70,7 @@ public class Main {
             System.out.print(factorial);
             System.out.println();
 
-            System.out.println("Anda Mau ulang (Y/T) ?");
+            System.out.print("Anda Mau ulang (Y/T) ? ");
             Scanner isContinue = new Scanner(System.in);
             isRunning = isContinue.nextLine().toUpperCase();
         }
