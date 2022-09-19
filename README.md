@@ -23,7 +23,7 @@ git clone https://github.com/rochmanramadhann/binus-intro-to-programming.git
 
 ## Running Single File
 
-```java
+```bash
 java FileName.java
 
 javac FileName.class
