@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/binus-intro-to-programming.iml" filepath="$PROJECT_DIR$/binus-intro-to-programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/tugas_personal/dua/dua.iml" filepath="$PROJECT_DIR$/src/tugas_personal/dua/dua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/forum/forum.iml" filepath="$PROJECT_DIR$/src/forum/forum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/tugas_personal/satu/satu.iml" filepath="$PROJECT_DIR$/src/tugas_personal/satu/satu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/tugas_kelompok/tugas_kelompok.iml" filepath="$PROJECT_DIR$/src/tugas_kelompok/tugas_kelompok.iml" />
+    </modules>
+  </component>
+</project>
